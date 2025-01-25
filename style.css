@@ -1,0 +1,55 @@
+#div2 {
+    width: 36%;
+    height: 225px;
+    margin-left: 600px;
+    margin-top: -230px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+
+
+
+#div1 {
+    margin-left: 480px;
+    margin-top: 200px;
+}
+
+@media ((min-width:400px) and (max-width:900px)) {
+    body {
+        background-color: aqua;
+    }
+}
+
+
+img {
+    width: 290px;
+    margin-left: -170px;
+    border-radius: 20px;
+}
+
+h3 {
+    margin-left: 20px;
+    margin-top: -100px;
+    align-items: center;
+}
+
+p {
+    margin-left: 20px;
+    align-items: center;
+}
+
+#three {
+    margin-left: 70px;
+    margin-top: -20px;
+}
+
+body {
+    background-color: rgb(178, 208, 235);
+}
+
+#image {
+    width: 40px;
+    margin-top: -190px;
+    margin-left: 20px;
+}
